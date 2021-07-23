@@ -1,0 +1,10 @@
+tweepy
+unicodecsv
+nltk
+pandas
+numpy
+spellchecker
+pyspellchecker
+translate
+textblob
+matplotlib

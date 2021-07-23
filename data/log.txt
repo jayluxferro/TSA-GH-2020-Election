@@ -1,0 +1,25 @@
+Imports Completed.
+Scores in Details: NPP
+
+NPP-positive : 18604
+NPP-negative : 6916
+NPP-neutral : 52555
+
+Scores in Details: NDC
+NDC-positive : 18057
+NDC-negative : 5177
+NDC-neutral : 39498
+
+
+Total neutral : 92053
+Total Tweets Containing Keywords: 140807 Tweets
+Scores in Percentage :
+
+NDC POSITIVE % : 12.823936309984587
+NDC NEGATIVE % : 3.6766638022257414
+NDC NEUTRAL % : 28.05116222915054
+
+
+NPP POSITIVE % : 13.212411314778386
+NPP NEGATIVE % : 4.911687629166163
+NPP NEUTRAL %  : 37.324138714694584
