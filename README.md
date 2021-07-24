@@ -1,12 +1,6 @@
-# Elections
-this is the updated version of the ai for election prediction repo, this time around all data is extracted with one script file
+### Application of Sentiment Analysis in Predicting the Outcome of Election Results: A Case Study of Ghana’s 2020 Presidential Election
 
-
-# NOTE: 
-### be sure to change the twitter credentials to valid ones before running this script.
-
-
-## Build
+#### Development
 1. Install dependencies using `pip`
 ```
 pip install -r requirements.txt
@@ -15,5 +9,5 @@ pip install -r requirements.txt
 2. Launch your python shell and run
 ```
 import nltk
-nltk.download() ## not sure
+nltk.download('all')
 ```
